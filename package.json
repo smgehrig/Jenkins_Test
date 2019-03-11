@@ -1,0 +1,22 @@
+{
+  "name": "jenkins_test",
+  "version": "1.0.0",
+  "description": "Simple NodeJS test to ensure jenkins is working",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smgehrig/Jenkins_Test.git"
+  },
+  "author": "Steve Gehrig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smgehrig/Jenkins_Test/issues"
+  },
+  "homepage": "https://github.com/smgehrig/Jenkins_Test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
